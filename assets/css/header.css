@@ -15,7 +15,7 @@
     height: 2rem;
     background-repeat: no-repeat;   
     background-size: contain;
-    background-image: url('assets/imagens/icons/header.svg'); 
+    background-image: url('../imagens/icons/header.svg'); 
 }
 
 .header .foto {
@@ -56,18 +56,18 @@
 
 
 .information .job::before {
-    background-image: url('assets/imagens/icons/profile.svg');
+    background-image: url('../imagens/icons/profile.svg');
 }
 .information .location::before {
-    background-image: url('assets/imagens/icons/location.svg');
+    background-image: url('../imagens/icons/location.svg');
 }
 
 .information .email::before {
-    background-image: url('assets/imagens/icons/email.svg')
+    background-image: url('../imagens/icons/email.svg')
 }
 
 .information .wpp::before {
-    background-image: url('assets/imagens/icons/wpp.svg')
+    background-image: url('../imagens/icons/wpp.svg')
 }
 
 @media screen and (min-width: 768px) {
